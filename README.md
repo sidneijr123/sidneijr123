@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sidneijr123
+- 👀 I’m interested in  Javascript
+- 🌱 I’m currently learning  Linguagem C e Javascript
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me sidnei@ba.estudante.senai.br
